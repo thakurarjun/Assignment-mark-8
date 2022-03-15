@@ -35,4 +35,9 @@
   to {
     transform: rotate(360deg);
   }
+  
+}
+input {
+padding: 1rem;
+width: 30%;
 }
