@@ -8,6 +8,10 @@ const emojiDictionary = {
   "🤫": "Shushing-Face",
   "😐": "Neutral-Face",
   "😏": "Smirking-Face",
+  "😍": "Smiling Face with heart-eyes",
+  "🤪": "Zany Face",
+  "🤑": "Money-Mouth Face",
+  "😪": "Sleepy Face"
 };
 const emojiWeKonw = Object.keys(emojiDictionary);
 
